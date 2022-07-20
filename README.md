@@ -1,5 +1,5 @@
 # esp32-ble-mm-rc-rover
-Arduino code to connect an ESP32 to a Micromelon Rover wirelessly via Bluetooth Low Energy. The code also implements functionality for a user to control the movement of a wirelessly connected Micromelon Rover via four pushbuttons connected to the GPIO pins (Pin 22, 21, 17, 16) of the ESP32. The four pushbuttons enable the Micromelon  Rover to move in four ways: 1. forwards, 2. backwards, 3. pivot on the spot in a clockwise direction, 4. pivot on the spot in a counter-clockwise direction
+Arduino code to connect an ESP32 to a Micromelon Rover wirelessly via Bluetooth Low Energy. The code also implements functionality for a user to control the movement of a wirelessly connected Micromelon Rover via four pushbuttons connected to the GPIO pins (Pin 22, 21, 17, 16) of the ESP32 (see wiring diagram). The four pushbuttons enable the Micromelon  Rover to move in four ways: 1. forwards, 2. backwards, 3. pivot on the spot in a clockwise direction, 4. pivot on the spot in a counter-clockwise direction
 
 **Useful Links**
 * [Rui Santos ESP32 Bluetooth tutorial](https://RandomNerdTutorials.com/esp32-ble-server-client/)
